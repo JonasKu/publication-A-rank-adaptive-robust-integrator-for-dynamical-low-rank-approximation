@@ -1,5 +1,5 @@
 # publication-A-rank-adaptive-robust-integrator-for-dynamical-low-rank-approximation
-This code framework can be used to reproduce all numerical results of the paper "A rank-adaptive robust integrator for dynamical low-rank approximation". 
+This code framework can be used to reproduce all numerical results of the paper "A rank-adaptive robust integrator for dynamical low-rank approximation" by Gianluca Ceruti, Jonas Kusch and Christian Lubich. 
 
 The code for the Schroedinger section in written in Matlab R2019b. To run the code open the Matlab environment and run the Driver.m file.
 
